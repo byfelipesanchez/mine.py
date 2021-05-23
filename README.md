@@ -1,2 +1,4 @@
 # mine.py
-minecraft python edition?
+
+made with ursina <br>
+found the assets somewhere on the internet lol
